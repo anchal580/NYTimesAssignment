@@ -1,10 +1,24 @@
 # NYTimesAssignment
+This is a sample app provided to show listing of NY Times Most Popular Articles and also show details. 
 
-This is an example Android Application README to show briefly the sections your app README should contain.
+## About NYTimes
+Ny times is the open source api.
 
-## Installation
-Clone this repository and import into **Android Studio**
-```bash
+### What You Will Find in NyTimesAssignment
+1. Faster Data response
+2. Simple Design concept
+3. Data Binding
+4. Retrofit 
+
+### Clone the Repository
+
+As usual, you get started by cloning the project to your local machine:
 git clone https://github.com/anchal580/NYTimesAssignment.git
-```
 
+### How to Build & Run
+`./gradlew build`
+
+`./gradlew assembleDebug` or `./gradlew assembleRelease`
+
+### bonus Activities
+SonarQube report for the code showing its quality summary.
